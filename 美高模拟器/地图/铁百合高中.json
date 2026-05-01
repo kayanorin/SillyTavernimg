@@ -24,7 +24,7 @@
           "name": "左翼·铁盾区",
           "x": 36.6,
           "y": 52.1,
-          "desc": "体育与体能训练区，“力量”的具象化，也是占地面积最大的女性主导区域。",
+          "desc": "体育与体能训练区。",
           "color": "#3498db",
           "type": "portal",
           "targetMapId": "iron_shield"
@@ -34,7 +34,7 @@
           "name": "右翼·柔瓣区",
           "x": 69.4,
           "y": 52.1,
-          "desc": "艺术文化中心，同时也是男生的主要活动区域。",
+          "desc": "艺术文化中心。",
           "color": "#e67e22",
           "type": "portal",
           "targetMapId": "soft_petal"
